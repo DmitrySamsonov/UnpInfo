@@ -1,3 +1,11 @@
+# IntelijIDEA
+target
+.idea
+data
+uploads
+*.iml
+
+
 # Compiled class file
 *.class
 
